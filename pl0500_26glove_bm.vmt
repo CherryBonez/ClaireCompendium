@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 	"models/mark2580/dmc/dmc_kat_winter/sherry/pl0500_26glove_BM"
+
+	"$bumpmap" 		"models/mark2580/dmc/dmc_kat_winter/sherry/pl0500_26glove_NM"
+
+	"$halflambert" 1
+	
+	$detail		"models/mark2580/dmc/dmc_kat_winter/sherry/detail_leather"
+	$detailscale 4
+	$detailblendfactor 0.8
+	$detailblendmode 14
+	
+	$lightwarptexture	"models/mark2580/dmc/dmc_kat_winter/sherry/lightwarp_soft_white"
+
+	$phong 1
+	$phongexponenttexture	"models/mark2580/dmc/dmc_kat_winter/sherry/albedo_tintdefine"
+	$phongalbedotint 1
+	$phongexponent 3
+	$phongboost 5
+	$phongfresnelranges "[0.5 1.5 8.0]"
+	
+	// $rimlight 1
+	$rimlighexponent 25
+	$rimlightboost 0.01
+}
